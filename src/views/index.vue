@@ -109,7 +109,6 @@
                     </Menu>
                 </i-col>
                 <i-col span="19">
-                    <div id="table" class="layout-content-main">内容区域</div>
                     <test></test>
                 </i-col>
             </Row>
